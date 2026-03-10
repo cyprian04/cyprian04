@@ -12,7 +12,7 @@
 
 * 🌱 I’m currently learning **NumPy and Pandas**
 * 💬 Ask me about **C++ and Python**
-* 📫 How to reach me: **[Cyprian.gibas@o2.pl](mailto:Cyprian.gibas@o2.pl)**
+* 📫 How to reach me: **[Cyprian.gibas@o2.pl](mailto:cyprian.gibas04@gmail.com)**
 * ⚡ Fun fact: **I fixed the bug… by adding another bug that cancels it out.**
 
 ---
